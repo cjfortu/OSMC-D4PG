@@ -1,0 +1,2 @@
+model_checkpoint_path: "Pendulum-v0_actor_target_170000-2.024e-04"
+all_model_checkpoint_paths: "Pendulum-v0_actor_target_170000-2.024e-04"

@@ -1,0 +1,13 @@
+Step 186/1000000DEBUG agent.run.update_op n_agent: 0 num_eps: 10 rewards/ep_mean: -0.06584858580890178 time: 38.96699595451355
+DEBUG agent.run.update_op n_agent: 2 num_eps: 10 rewards/ep_mean: -0.33682899090667284 time: 39.05719447135925
+Step 187/1000000DEBUG agent.run.update_op n_agent: 3 num_eps: 10 rewards/ep_mean: -0.15635320677975287 time: 39.16327905654907
+Step 189/1000000DEBUG agent.run.update_op n_agent: 1 num_eps: 10 rewards/ep_mean: -0.03783604244942874 time: 39.45844769477844
+Step 391/1000000DEBUG agent.run.update_op n_agent: 0 num_eps: 20 rewards/ep_mean: -0.279738372104574 time: 69.66098380088806
+Step 395/1000000DEBUG agent.run.update_op n_agent: 2 num_eps: 20 rewards/ep_mean: -0.22757385066561048 time: 70.65051794052124
+DEBUG agent.run.update_op n_agent: 3 num_eps: 20 rewards/ep_mean: -0.3546778126814933 time: 70.74247217178345
+Step 397/1000000DEBUG agent.run.update_op n_agent: 1 num_eps: 20 rewards/ep_mean: -0.10624031012924776 time: 71.08147597312927
+Step 596/1000000DEBUG agent.run.update_op n_agent: 0 num_eps: 30 rewards/ep_mean: -0.3850569530675037 time: 104.522789478302
+Step 599/1000000DEBUG agent.run.update_op n_agent: 3 num_eps: 30 rewards/ep_mean: -0.21702605144434015 time: 105.17389011383057
+Step 600/1000000DEBUG agent.run.update_op n_agent: 1 num_eps: 30 rewards/ep_mean: -0.19844138402878936 time: 105.35779905319214
+Step 604/1000000DEBUG agent.run.update_op n_agent: 2 num_eps: 30 rewards/ep_mean: -0.29268995139716186 time: 105.80540370941162
+
